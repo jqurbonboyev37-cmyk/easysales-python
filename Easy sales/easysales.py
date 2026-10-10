@@ -31,3 +31,4 @@ with open("hisobot.txt", "w", encoding="utf-8") as fayl:
 
 print("Hisobot saqlandi!")
 print("Jami savdo:", jami)
+print("EasySales dasturidan foydalanganingiz uchun rahmat!")

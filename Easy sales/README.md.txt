@@ -22,3 +22,10 @@ python easysales.py
 
 ## Project status
 Beginner portfolio project.
+## Author
+Created as my first Python portfolio project.
+
+## Future improvements
+- Add a product list
+- Improve the sales report
+- Add a graphical interface
